@@ -3,7 +3,7 @@ Hysteria2一键安装视频教程：▶ https://youtu.be/N6j3gWde8cQ
 
 ### 步骤：
 ### 一、准备一个VPS服务器（Debian）
-Vultr注册账号：https://www.vultr.com/?ref=8941832-8H
+Vultr注册账号：https://www.vultr.com/?ref=8753714
 
 ### 二、下载搭建工具 FinalShell
 FinalShell下载：<a href="https://kjfx.lanzoui.com/iqm6Uosbzha" target="_blank">点击下载>></a><br>
